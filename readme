@@ -1,0 +1,15 @@
+3 fichiers :
+
+Pendu : contenant le programme du jeu
+Données : contenant la liste des mots, le nombre de chance autorisées et les
+	scores de chaque joueurs
+Fonction : les fonctions utiles à l'application
+
+Les règles du Jeu :
+
+l'ordinateur choisi un mot dans sa liste (aléatoirement ou non) (un mot de huit lettres max) le joueur tape une lettre, puis l'ordinateur révèle le mot avec leslettres non trouvé comme des *.
+Le joueur à 8 chances sinon c'est perdu.
+
+Pour le score :
+
+Chaque chance qui lui reste quand il a  gagner est un point.
